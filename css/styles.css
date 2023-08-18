@@ -1,0 +1,285 @@
+.body {
+    font-family: "Roboto", sans-serif;
+    color: #434445;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+
+.studio {
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.studio:hover,
+.studio:focus {
+    color: #404bbf
+}
+
+.link-navigation 
+{
+    color: #4d5ae5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.link-logo 
+{
+    color: #4d5ae5;
+}
+
+.link-nav 
+{
+    color: #2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5em;
+    letter-spacing: 0.02em;
+    transition: color 0.3s;
+    text-decoration: none;
+}
+
+.link-nav:hover,
+.link-nav:focus 
+{
+    color: #404bbf
+}
+
+
+.address 
+{
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.link-address
+ {
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.link-address:hover,
+.link-address:focus 
+{
+    color: #404bbf
+}
+
+/* Section Hero block */
+
+.hero-block
+{
+    background: #2E2F42;
+}
+
+.hero-title
+{
+    color: #FFFFFF;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    line-height: 1.07;
+    text-align: center;
+}
+
+.order-service
+{
+    color: #FFFFFF;
+    background: #4D5AE5;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+
+.order-service:hover,
+.order-service:focus 
+{
+    background-color: #404BBF
+}
+
+/* Section Advantages block */
+
+.advantages 
+{
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.4px;
+    line-height: 1.2;
+}
+
+.advantages-text 
+{
+    color: #434455;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+/* Section team */ 
+
+.team 
+{
+    background: #F4F4FD;
+}
+
+.table-team 
+{
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    line-height: 1.11;
+    text-align: center;
+}
+
+.link-team 
+{
+    background-color: #FFFFFF;
+}
+
+.photo 
+{
+    background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
+}
+
+.name-team 
+{
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    text-align: center;
+}
+
+.job-team 
+{
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+
+/* Section our portfolio */
+
+.portfolio 
+{
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.portfolio-app 
+{
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.portfolio-field-of-activity
+{
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+/* Footer */ 
+
+.footer 
+{
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    background-color: #2E2F42;
+}
+
+.footer-logo {
+    color: #4d5ae5;
+}
+
+.footer-web 
+{
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.footer-studio 
+{
+    color: #F4F4FD;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.footer-text 
+{
+    color: #F4F4FD;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0.32px;
+}
