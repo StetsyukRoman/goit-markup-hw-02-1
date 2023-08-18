@@ -44,7 +44,7 @@ a {
 
 .link-nav 
 {
-    color: #2E2F42;
+    color: #434455;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -169,11 +169,6 @@ a {
 .link-team 
 {
     background-color: #FFFFFF;
-}
-
-.photo 
-{
-    background: url(<path-to-image>), lightgray -200px -7.128px / 251.515% 170.277% no-repeat;
 }
 
 .name-team 
