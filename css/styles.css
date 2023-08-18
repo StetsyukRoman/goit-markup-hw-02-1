@@ -1,6 +1,6 @@
 .body {
     font-family: "Roboto", sans-serif;
-    color: #434445;
+    color: #434455;
     background-color: #ffffff;
 }
 
@@ -57,7 +57,7 @@ a {
 .link-nav:hover,
 .link-nav:focus 
 {
-    color: #404bbf
+    color: #404bbf;
 }
 
 
@@ -280,6 +280,6 @@ a {
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-    line-height: 14px;
-    letter-spacing: 0.32px;
+    line-height: 1.5px;
+    letter-spacing: 0.02px;
 }
