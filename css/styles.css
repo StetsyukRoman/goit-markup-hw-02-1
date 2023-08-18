@@ -10,6 +10,27 @@ a {
 
 /* Header */
 
+.link-navigation 
+{
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.link-logo 
+{
+    color: #4D5AE5;
+}
+
+.logo-studio 
+{
+    color: #2E2F42;
+}
+
 .studio {
     color: #2E2F42;
     font-family: Raleway;
@@ -24,22 +45,6 @@ a {
 .studio:hover,
 .studio:focus {
     color: #404bbf
-}
-
-.link-navigation 
-{
-    color: #4d5ae5;
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.link-logo 
-{
-    color: #4d5ae5;
 }
 
 .link-nav 
@@ -280,6 +285,6 @@ a {
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.5px;
-    letter-spacing: 0.02px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
