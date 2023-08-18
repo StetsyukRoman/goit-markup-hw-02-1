@@ -42,11 +42,6 @@ a {
     text-transform: uppercase;
 }
 
-.studio:hover,
-.studio:focus {
-    color: #404bbf
-}
-
 .link-nav 
 {
     color: #2E2F42;
