@@ -94,7 +94,7 @@ ul {
 {
     color: #FFFFFF;
     font-size: 56px;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     line-height: 1.07;
     text-align: center;
 }
@@ -107,7 +107,7 @@ ul {
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
@@ -124,7 +124,7 @@ ul {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     line-height: 1.2;
 }
 
@@ -134,7 +134,7 @@ ul {
     background-color: #FFFFFF;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.02px;
+    letter-spacing: 0.02em;
 }
 
 /* Section team */ 
@@ -148,7 +148,7 @@ ul {
 {
     color: #2E2F42;
     font-size: 36px;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     line-height: 1.11;
     text-align: center;
@@ -164,7 +164,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -184,7 +184,7 @@ ul {
     color: #2E2F42;
     font-size: 36px;
     line-height: 40px;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
 }
@@ -195,7 +195,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-field-of-activity
